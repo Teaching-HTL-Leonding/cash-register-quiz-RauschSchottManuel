@@ -1,0 +1,12 @@
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\bin\Debug\net5.0\CashRegister.Shared.deps.json
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\bin\Debug\net5.0\CashRegister.Shared.dll
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\bin\Debug\net5.0\ref\CashRegister.Shared.dll
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\bin\Debug\net5.0\CashRegister.Shared.pdb
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.csproj.AssemblyReference.cache
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.AssemblyInfoInputs.cache
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.AssemblyInfo.cs
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.csproj.CoreCompileInputs.cache
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.dll
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\obj\Debug\net5.0\ref\CashRegister.Shared.dll
+D:\HTL\4CHIF\PROO-C#\Github\cash-register-quiz-RauschSchottManuel\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.pdb

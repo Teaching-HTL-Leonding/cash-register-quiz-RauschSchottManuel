@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CashRegister.UICore/1.0.0": {
+        "dependencies": {
+          "CashRegister.Shared": "1.0.0"
+        },
+        "runtime": {
+          "CashRegister.UICore.dll": {}
+        }
+      },
+      "CashRegister.Shared/1.0.0": {
+        "runtime": {
+          "CashRegister.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CashRegister.UICore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CashRegister.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
